@@ -2,11 +2,6 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/daily-incline-walks/
         </loc>
     </url>
@@ -17,12 +12,22 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/vitamin-gummies/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/weight-lifting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/keto-diet/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
         </loc>
     </url>
     <url>
@@ -33,11 +38,6 @@
     <url>
         <loc>
             http://localhost:8000/health/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>
@@ -63,6 +63,86 @@
     <url>
         <loc>
             http://localhost:8000/tag/30min/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/ketodiet/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/diet/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/keto/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/carbs/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/running/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/treadmill/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/ashwagandha/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/tongkatali/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/creatine/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/supplements/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/health/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/probiotic/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/gummies/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/vitamins/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/digestion/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/energy/
         </loc>
     </url>
     <url>

@@ -147,6 +147,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/tag/weightlifting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/fitness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/strength/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/workout/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/minhhuytran/
         </loc>
     </url>
